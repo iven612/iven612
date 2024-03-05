@@ -69,14 +69,18 @@ Google Cloud API는 Google Cloud Platform 서비스에 대한 프로그래매틱
 
 ### Geospatial API 사용방법
 Geolocation API는 모바일 클라이언트가 감지할 수 있는 휴대폰 기지국 및 Wi-Fi 액세스 포인트가 포함된 HTTPS 요청을 수락하는 서비스입니다. 이 메서드는 위도/경도 좌표와 유효한 각 입력에 대한 결과의 정확성을 나타내는 반경을 반환합니다.
-Unity용 ARCore Geospatial Creator를 사용하면 Google 지도 데이터를 새로운 3D 타일 형식으로 표시하여 Unity 편집기에서 지리정보 콘텐츠를 미리 볼 수 있습니다. 이를 통해 앱을 빌드하는 동안 실제로 콘텐츠가 배치될 위치를 시각화할 수 있습니다.
 > Edit(수정) > Project Settings. > XR 플러그인 관리 > ARCore 확장 프로그램 > Geospatial이 선택되어 있는지 확인 > API 사용자 인증 정보를 입력
 #### 사용설정 및 API Key 사용 설명
 API 키는 사용 및 결제에 관한 프로젝트와 관련된 요청을 인증하는 고유 식별자입니다. 프로젝트에 연결된 API 키가 하나 이상 있어야 합니다.
 > Google Maps Platform > 사용자 인증 정보사용자 인증 정보 만들기 > API 키 > API 키 생성 완료
 
 ### Geospatial Creator API 사용방법
+Unity용 ARCore Geospatial Creator를 사용하면 Google 지도 데이터를 새로운 3D 타일 형식으로 표시하여 Unity 편집기에서 지리정보 콘텐츠를 미리 볼 수 있습니다. 이를 통해 앱을 빌드하는 동안 실제로 콘텐츠가 배치될 위치를 시각화할 수 있습니다.
+> Geospatial API 사용방법에서 Cesium 패키지를 추가
 #### Cesium Package 설치
+> Unity용 Cesium .tgz의 최신 버전 [GitHub 출시 페이지](https://github.com/CesiumGS/cesium-unity/releases/)에서 다운> Window > Package Manager > tarball에서 패키지 추가 > Cesium for Unity .tgz 파일을 선택
+#### 사용설정
+> Build Settings에서 Android 또는 iOS 인지 확인 > Project Settings > XR Plug-in Management > ARCore Extensions(ARCore Android 또는 iOS API 키를 설정하지 않았다면 지금 설정) > Geospatial 및 Geospatial Creator 전환 버튼을 모두 사용 설정
 
 ### Naver API 사용 설명
 네이버 클라우드 플랫폼에서는 서비스와 솔루션을 효과적으로 사용할 수 있도록 API(Application Program Interface)와 SDK(Software Development Kit)를 제공하고 있습니다. 동작에 따라 파라미터 값을 입력, 등록, 수정, 삭제, 검색할 수 있습니다. 또한 서비스 및 운영 도구의 자동화에도 활용할 수 있습니다. 일반적으로 XML 및 JSON 형식으로 응답하는 API URL 형식입니다. 크게 기본 API, 호환 API, 연동 API로 분류됩니다.
