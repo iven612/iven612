@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm YuJung An :computer:<br>
+  <br> I'm YuJung An, New Developer! :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: 
@@ -94,10 +95,15 @@ Static Map API는 REST 형식을 따르는 네이버 지도 인터페이스로 H
 ### 안드로이드 빌드 설정
 ![AndroidSetting](AndroidSetting.png)
 
+배웠으나 사용하지 않음
+
 ## 해당 프로젝트 사용해 개발
 ### ROI 변경 방법
 ### Directions5 Json 구조
 ### Static map API 링크
+
+## 작업 노션
+[Station J Notion](https://narrow-eyeliner-36a.notion.site/AR-041ece6a6e2a4e5f88f0b391804324bf?pvs=4)
 
 ## License
 ### License.md
