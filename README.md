@@ -37,8 +37,10 @@ Here are some ideas to get you started:
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-@iven612-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)]() 
-[![Instagram Badge](https://img.shields.io/badge/-@iven612-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)]()
+[![Twitter Badge](https://img.shields.io/badge/-@iven612-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&)]() 
+[![Instagram Badge](https://img.shields.io/badge/-@iven612-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&)]()
+[![Gmail Badge](https://img.shields.io/badge/-@iven612-D14836?style=flat-square&labelColor=D14836&logo=Gmail&logoColor=white&)]()
+[![Discord Badge](https://img.shields.io/badge/-@iven612-7289DA?style=flat-square&labelColor=7289DA&logo=Discord&logoColor=white&)]()
 
 
 # AR Navigation
@@ -51,7 +53,6 @@ AR기술을 활용하여 => 네비게이션 사용시 실시간으로 바닥에 
 > Unity Version: 2022.3.2f1
 
 > Platform: Android
->
 
 ## 시작하는 방법
 ### ARCore Extension Package 사용법
@@ -72,4 +73,3 @@ AR기술을 활용하여 => 네비게이션 사용시 실시간으로 바닥에 
 -Static map API 링크
 ## License
 -License.md
-
