@@ -101,6 +101,7 @@ Static Map API는 REST 형식을 따르는 네이버 지도 인터페이스로 H
 ## 해당 프로젝트 사용해 개발
 ### ROI 변경 방법
 ### Directions5 Json 구조
+![DirectionJsonExample](DirectionJsonExample.png)
 ### Static map API 링크
 > [Link](https://developers.google.com/maps/documentation/maps-static/overview?hl=ko)
 
