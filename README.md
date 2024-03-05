@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-@iven612-D14836?style=flat-square&labelColor=D14836&logo=Gmail&logoColor=white&)]()
 [![Discord Badge](https://img.shields.io/badge/-@iven612-7289DA?style=flat-square&labelColor=7289DA&logo=Discord&logoColor=white&)]()
 
-## Project
+## Station J Project
 <details>
     <summary>Click to see more!</summary>
  
@@ -100,3 +100,4 @@ Static Map API는 REST 형식을 따르는 네이버 지도 인터페이스로 H
 
 ## License
 ### License.md
+</details>
