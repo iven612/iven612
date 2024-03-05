@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"  />
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: 
@@ -101,6 +102,7 @@ Static Map API는 REST 형식을 따르는 네이버 지도 인터페이스로 H
 ### ROI 변경 방법
 ### Directions5 Json 구조
 ### Static map API 링크
+> [Link](https://developers.google.com/maps/documentation/maps-static/overview?hl=ko)
 
 ## 작업 노션
 [Station J Notion](https://narrow-eyeliner-36a.notion.site/AR-041ece6a6e2a4e5f88f0b391804324bf?pvs=4)
