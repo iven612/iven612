@@ -3,8 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -28,25 +27,44 @@ Here are some ideas to get you started:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"  />
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: 
-- :hourglass_flowing_sand: 
-- :rocket: 
-- :man_technologist: 
-- :dart:
-- :trophy:
-- :zap:
+- 🔭: I'm a novice developer who is still learning.
+- :hourglass_flowing_sand: I’m currently working on VRproject at Unity BootCamp
+- 🌱 I’m currently learning Unity, Blender
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-@iven612-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&)]() 
-[![Instagram Badge](https://img.shields.io/badge/-@iven612-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&)]()
-[![Gmail Badge](https://img.shields.io/badge/-@iven612-D14836?style=flat-square&labelColor=D14836&logo=Gmail&logoColor=white&)]()
-[![Discord Badge](https://img.shields.io/badge/-@iven612-7289DA?style=flat-square&labelColor=7289DA&logo=Discord&logoColor=white&)]()
+[![Twitter Badge](https://img.shields.io/badge/-@-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&)]() 
+[![Instagram Badge](https://img.shields.io/badge/-@-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&)]()
+[![Gmail Badge](https://img.shields.io/badge/-@-D14836?style=flat-square&labelColor=D14836&logo=Gmail&logoColor=white&)]()
+[![Discord Badge](https://img.shields.io/badge/-@-7289DA?style=flat-square&labelColor=7289DA&logo=Discord&logoColor=white&)]()
 
+# 2D IndieGame Project
+<details>
+    <summary>Click to see more!</summary>
+
+ ## Start
+ > 2024년 3~4월 출시를 목표로 제작한 2Dd인디 게임
+
+> Platform: Window
+
+ ## produce
+ > 그림 및 UI 를 제외한 모든 시스템을 유니티 에셋을 활용해 구축.
+
+ > 맡은 부분: 게임 전반의 코딩 및 맵 배치 등 UI,그림,스토리를 제외한 모든 요소. 
+
+ ## Problem
+ > 끝까지 제작되지 않았으나 이 프로젝트를 계기로 유니티에 흥미를 가지게 되었다.
+ 
+ ## Building
+ [HidenSide](https://drive.google.com/drive/folders/1_Cf9YsBAr_5Ao7Y2QsxhOwN-Z_oFAnkH?usp=drive_link)
+
+ </details>
+ 
 ## Station J Project
 <details>
     <summary>Click to see more!</summary>
- 
+> 유니티 부트캠프에서 제작
+
 # AR Navigation
 > 제물포 역을 기준으로 지도를 생성하여 유저가 제물포 주변에 있는 시설들을 잘 이용 할 수 있도록 AR Navigation, PhotoZone 등, 다양한 정보를 제공하는 Android Application입니다.
 AR기술을 활용하여 => 네비게이션 사용시 실시간으로 바닥에 화살표를 띄워 유저에게 직관적으로 길을 알려주고 포토존이나 특정 랜드마크에 가면 3D 오브젝트와 촬영을 하거나
