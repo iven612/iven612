@@ -33,11 +33,10 @@ Here are some ideas to get you started:
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-@-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&)]() 
-[![Instagram Badge](https://img.shields.io/badge/-@-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&)]()
-[![Gmail Badge](https://img.shields.io/badge/-@-D14836?style=flat-square&labelColor=D14836&logo=Gmail&logoColor=white&)]()
-[![Discord Badge](https://img.shields.io/badge/-@-7289DA?style=flat-square&labelColor=7289DA&logo=Discord&logoColor=white&)]()
-[![Notion Badge](https://img.shields.io/badge/-@-23000000?style=flat-square&labelColor=23000000&logo=notion&logoColor=white&)](https://www.notion.so/_-dbfe7cb9bea44bf4a8aa0b4fd46813c3)
+[![Twitter Badge](https://img.shields.io/badge/--1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&)]() 
+[![Gmail Badge](https://img.shields.io/badge/--D14836?style=flat-square&labelColor=D14836&logo=Gmail&logoColor=white&)]()
+[![Discord Badge](https://img.shields.io/badge/-@iven12-7289DA?style=flat-square&labelColor=7289DA&logo=Discord&logoColor=white&)]()
+[![Notion Badge](https://img.shields.io/badge/-Notion-23000000?style=flat-square&labelColor=23000000&logo=notion&logoColor=white&)](https://www.notion.so/_-dbfe7cb9bea44bf4a8aa0b4fd46813c3)
 
 # 2D IndieGame Project
 <details>
