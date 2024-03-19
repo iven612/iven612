@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <summary>Click to see more!</summary>
 
  ## Start
- > 2024년 3~4월 출시를 목표로 제작한 2Dd인디 게임
+ > 2024년 3~4월 출시를 목표로 제작한 2D인디 게임
 
 > Platform: Window
 
